@@ -39,7 +39,7 @@ We value well-structured, self-documenting code with sensible test coverage. Des
 - TODO comments should be worked out to further improve the code.
 
 ## Future improvements
-- Workers/go routines can be used.
+- Workers/go routines can be used. Done [here](https://github.com/mayurshivakumar/velocitylimit)
 - Improve error handling.
 - Improve file handling.
 - Fix the file paths for input, config and output.
